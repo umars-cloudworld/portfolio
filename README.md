@@ -62,6 +62,7 @@ Leveraged  a seamless website deployment using GitLab Pipelines, in conjunction 
 
 ### Description
 Executed the deployment of a cutting-edge React application by harnessing AWS Developers tools. Utilized S3 buckets for secure web hosting and leveraged the capabilities of CodeCommit, CodeBuild, and CodePipeline for seamless automation. Orchestrated infrastructure setup through Terraform, ensuring reliability in provisioning. This project exemplifies the fusion of React with AWS's DevOps suite, resulting in a sophisticated and streamlined deployment process.
+For detailed setup instructions and more information, please refer to [Project 5 README](Project-5/README.md).
 ## Project 6: Drupal Deployment with Kubernetes
 
 ![Drupal](https://img.shields.io/badge/Drupal-%3Cversion%3E-%230067AD)
