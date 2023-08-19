@@ -134,7 +134,7 @@ aws ecs describe-task-definition \
           wait-for-service-stability: false #Make it to true, after first deployment
 ```
 # Congrats, My application has been deployed successfully
-6. for testing CICD, we can made any changes in the code and we can push to github, and from here, github actions will take care the whole deployment.
+6. For testing CICD, we can made any changes in the code and we can push to github, and from here, github actions will take care the whole deployment.
 
 ## Contributing
 
