@@ -23,7 +23,7 @@ For detailed setup instructions and more information, please refer to [Project 1
 
 ### Description
 Deployed a secure Next.js web app on AWS ECS using Terraform for infrastructure setup. Strengthened security through IAM, Security Groups, and a well-architected VPC. Implemented efficient CI/CD using GitHub Actions, ensuring automated testing and deployment. Integrated ALB for optimal traffic management, providing a seamless user experience.
-For detailed setup instructions and more information, please refer to [Project 2 README](project2/README.md).
+For detailed setup instructions and more information, please refer to [Project 2 README](Project-2/README.md).
 
 ## Project 3: Highly Available and Fault-Tolerant WordPress Site
 
