@@ -50,6 +50,7 @@ Successful WordPress deployment on AWS infrastructure through Terraform. Employe
 
 ### Description
 Leveraged  a seamless website deployment using GitLab Pipelines, in conjunction with Terraform for AWS infrastructure management. Employed S3 buckets for secure and efficient website hosting, enhanced by Cloudfront and Route 53 for content delivery and DNS management. The integration of GitLab CI/CD and AWS services ensures an automated, reliable, and scalable website deployment solution.
+For detailed setup instructions and more information, please refer to [Project 2 README](Project-4/README.md).
 
 ## Project 5: CICD React Deployment on Amazon S3 using CodeCommit, CodeBuild, CodePipeline and Terraform Multi Env
 
